@@ -8,7 +8,7 @@ Basic React app that lists the food items in a menu.
 
 ## Functional
 
-* The food items in the list are divided into different categories.
+* The food items in the list are divided into different categories such as - All, Breakfast, Lunch and Shakes.
 
 * Customer can navigate through any category to select his/her favourite item.
 
