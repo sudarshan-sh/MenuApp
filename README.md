@@ -4,6 +4,7 @@
 
 Basic React app that lists the food items in a menu.
 
+![Menu App](https://github.com/sudarshan-sh/MenuApp/blob/main/images/my-menu-app.png)
 
 ## Functional
 
